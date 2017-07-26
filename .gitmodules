@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/tsenart/vegeta"]
+	path = vendor/github.com/tsenart/vegeta
+	url = https://github.com/tsenart/vegeta
